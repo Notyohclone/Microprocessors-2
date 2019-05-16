@@ -1,2 +1,3 @@
 # Microprocessors-2
-Class projects and some tinkering.
+_Class projects and some tinkering.
+    Current code is to be uploaded and executed on __8086 training kit (MTS-86c)__
